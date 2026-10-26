@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nuyoahlolo
+- 👋 Hi, I’m @Lira
 - 👀 I’m interested in Artificial intelligence, Image processing, smart cars , DIY and so.
 - 🌱 I’m currently learning Smart cars
 - 💞️ I’m looking to collaborate on ...
